@@ -59,7 +59,7 @@ Nos hiperlinks, você pode encontrar mais detalhes.
 ## Team (Nome)
 | Integrantes | Redes Sociais | LinkedIn |
 |-------------|---------------|----------|
-| Mateus Soares [Product Manager]![Dev](https://img.shields.io/badge/Dev-black) | [GitHub](https://github.com/MateusMSoares) | [LinkedIn](ColoqueAquiOLinkDoPerfil) |
+| Mateus Soares ![Product Manager][Dev](https://img.shields.io/badge/Dev-black) | [GitHub](https://github.com/MateusMSoares) | [LinkedIn](ColoqueAquiOLinkDoPerfil) |
 | Ruth da Silva Mira ![Scrum Master](https://img.shields.io/badge/Scrum_master-pink) ![Dev](https://img.shields.io/badge/Dev-black) | [GitHub](https://github.com/RuthMira) | [LinkedIn](www.linkedin.com/in/ruth-mira) |
 | Danielle Mayumi Tamazato Santos ![Dev](https://img.shields.io/badge/Dev-black) | [GitHub](https://github.com/danitamazato) | [LinkedIn](https://www.linkedin.com/in/daniellemtamazato/) |
 | Eruano Rubens de Almeida ![Dev](https://img.shields.io/badge/Dev-black) | [GitHub](www.github.com) | [LinkedIn](https://www.linkedin.com/in/eruano-rubens-de-almeida-b0ba19111/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) |
