@@ -20,7 +20,7 @@ Descrevendo o objetivo.
 ## Prazos
 | Sprints | Início | Fim |
 | ------- | ------ | --- |
-| 1ª sprint | 25/03 | 15/03 |
+| 1ª sprint | 25/03 | 15/04 |
 | 2ª sprint | 15/04 | 05/05 |
 | 3ª sprint | 06/05 | 26/05 |
 | 4ª sprint | 27/05 | 16/06 |
